@@ -7,7 +7,6 @@ public class SRMRoomAssignmentPhaseRunner {
         System.out.println(name + "[" + status + "] " + expected + " : " + actual);
     }
 
-
     public static void main(String[] args) {
         SRMRoomAssignmentPhase problem = new SRMRoomAssignmentPhase();
 

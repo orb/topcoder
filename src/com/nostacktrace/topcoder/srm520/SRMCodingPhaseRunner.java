@@ -1,12 +1,5 @@
 package com.nostacktrace.topcoder.srm520;
 
-/**
- * Created by IntelliJ IDEA.
- * User: norman
- * Date: 10/10/11
- * Time: 10:45 AM
- * To change this template use File | Settings | File Templates.
- */
 public class SRMCodingPhaseRunner {
 
     public static void run(String name, int expected, int actual) {
