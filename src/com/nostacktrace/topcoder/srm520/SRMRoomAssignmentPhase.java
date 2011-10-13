@@ -1,9 +1,10 @@
 package com.nostacktrace.topcoder.srm520;
 
-/*
-* SRM 520
-* http://community.topcoder.com/stat?c=problem_statement&pm=11380&rd=14545
-*/
+/**
+ * SRM 520 - SRMRoomAssignmentPhase
+ * <p/>
+ * http://community.topcoder.com/stat?c=problem_statement&pm=11380&rd=14545
+ */
 
 public class SRMRoomAssignmentPhase {
     public int countCompetitors(int[] ratings, int K) {
