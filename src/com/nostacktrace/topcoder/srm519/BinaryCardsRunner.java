@@ -1,7 +1,7 @@
 package com.nostacktrace.topcoder.srm519;
 
 public class BinaryCardsRunner {
-        public static void run(String name, long expected, long actual) {
+    public static void run(String name, long expected, long actual) {
         String status = (expected == actual) ? "OK" : "FAIL";
         System.out.println(name + "[" + status + "] " + expected + " : " + actual);
     }
