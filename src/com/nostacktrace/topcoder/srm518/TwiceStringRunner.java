@@ -16,7 +16,6 @@ public class TwiceStringRunner {
         run("ex 2", "topcodertopcoder", problem.getShortest("topcoder"));
         run("ex 3", "abracadabracadabra", problem.getShortest("abracadabra"));
 
-
     }
 
 }
