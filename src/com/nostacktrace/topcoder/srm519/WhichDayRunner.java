@@ -2,7 +2,7 @@ package com.nostacktrace.topcoder.srm519;
 
 public class WhichDayRunner {
     public static void run(String name, String expected, String actual) {
-        String status = (expected == actual) ? "OK" : "FAIL";
+        String status = (expected.equals(actual)) ? "OK" : "FAIL";
         System.out.println(name + "[" + status + "] " + expected + " : " + actual);
     }
 
